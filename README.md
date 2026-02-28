@@ -1,4 +1,4 @@
-# README — Tweet Text Analysis + Sentiment Classification (NLP)
+# Tweet Text Analysis + Sentiment Classification (NLP)
 
 This repository contains three notebooks prepared as coursework for the **“Introduction to Machine Learning”** class.  
 The project follows an end-to-end NLP workflow on a tweets dataset: **EDA → feature engineering → modeling**.  
@@ -43,4 +43,5 @@ Modeling notebook contains comparative experiments:
 - transformer-based sentiment model (BERT).
 
 Outcome: the **transformer-based model (BERT)** achieved the **best overall metrics**.  
+
 Models trained mainly on **engineered features** (tree/boosting and neural network) also worked, but achieved **lower scores** compared to the transformer approach.
